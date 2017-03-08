@@ -1,5 +1,6 @@
-# Learning Flask
+# Phoenixts
 
-This is just a test project for getting to know Flask.  All code is free to use with no license as I followed a video.
+Phoenixts is a Web App for teachers who want to teach students words from English, German, French or Spanish.
 
-I used a bunch of different tools and applications.  To see them all, navigate to requirements.txt.
+Phoenixts is made to help teachers cut down on the amount of paper work they do to teach kids words from 
+different languages and will show the teachers every kind of statistic that they need to know.
